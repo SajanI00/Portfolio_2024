@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Paws Connect",
+      "imageSrc": "projects/Paws1.png",
+      "description": "A mobile app for pet adoption and reuniting lost pets with their owners.",
+      "skills": ["Dart", "Flutter", "Firebase"],
+      "demo": "https://drive.google.com/file/d/1VR92vOVdIQag6wlugRnMjDQeJ8spcXWy/view?usp=drive_link",
+      "source": "https://flutlab.io/editor/5e6a6b07-e1f4-44fa-9cc0-2ff6c09a72b3"
+    },
+    {
+      "title": "Eventify",
+      "imageSrc": "projects/eventify.png",
+      "description": "A web application for an online event ticketing system using MERN stack.",
+      "skills": ["React", "Express", "Node", "Mongodb"],
+      "demo": "https://drive.google.com/file/d/1IMMf4EP6SNGW0ksbU4bkhmDBgkRjgxxU/view?usp=drive_link",
+      "source": "https://codesandbox.io/p/sandbox/cocky-mccarthy-kpvk8j"
+    },
+    {
+      "title": "Student Registration",
+      "imageSrc": "projects/regsys.png",
+      "description": "A system to perform CRUD operations on student details.",
+      "skills": ["C#", "HTML", "CSS", "SQLite"],
+      "demo": "https://drive.google.com/file/d/1eTK88NtttNSRvZ1XbjO-Wd02C7L3bLZP/view?usp=drive_link",
+      "source": "https://www.github.com/Sajani00"
+    },
+    {
+      "title": "ERP System",
+      "imageSrc": "projects/erp.png",
+      "description": "The student portal of the University ERP system. (Ongoing)",
+      "skills": ["C#", ".NET Core", "Blazor", "Postgresql"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
